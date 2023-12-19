@@ -212,17 +212,18 @@ nav ul li a{
     border-radius: 10px;
 }
 
-.test1-cont{
+.test1-cont, .test2-cont, .test3-cont {
     margin-left: 50px;
     margin-top: 70px;
 }
 
-.test1-cont img{
+.test1-cont img, .test2-cont img, .test3-cont img{
     width: 30px;
     border-radius: 50%;
+    margin-right: 10px;
 }
 
-.test1-cont p{
+.test1-cont p, .test2-cont p, .test3-cont p {
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     color: var(--white);
@@ -230,10 +231,23 @@ nav ul li a{
     margin-bottom: 50px;
 }
 
-.test1-contb{
+.test1-contb, .test2-contb, .test3-contb{
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+
+.test1-contb h3, .test2-contb h3, .test3-contb h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: var(--white);
+}
+
+.test1-contb h4, .test2-contb h4, .test3-contb h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--white);
 }
 
 .test2{
