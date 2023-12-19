@@ -218,12 +218,14 @@ nav ul li a{
 }
 
 .test1-cont img{
-    border-radius: 500px;
+    width: 30px;
+    border-radius: 50%;
 }
 
 .test1-contb{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
 }
 
 .test2{
