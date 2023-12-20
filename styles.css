@@ -186,6 +186,11 @@ nav ul li a{
     color: hsl(0, 0%, 100%);
 }
 
+.arrow{
+    width: auto;
+    height: auto;
+}
+
 
 .prod-cont a{
     text-decoration: none;
@@ -342,9 +347,27 @@ z-index: 1;
     height: 800px;
     background-color: var(--Dark--Blue--Footer);
     padding-top: 300px;
-    /* display: flex; */
     /* align-items: center; */
     /* justify-content: center; */
+}
+
+.foot-cont .foot-logo{
+    margin-bottom: 80px;
+}
+
+.foot-contb{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer1 {
+    display: flex;
+    align-items: center;
+}
+
+.footer2 {
+    display: flex;
+    align-items: center;
 }
 
 
