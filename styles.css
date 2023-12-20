@@ -216,6 +216,12 @@ nav ul li a{
     height: 300px;
     background-color: hsl(219, 30%, 18%) ;
     border-radius: 10px;
+    z-index: 100;
+}
+
+.test1 .big-quote{
+    width: 90px;
+    z-index: -1;
 }
 
 .test1-cont, .test2-cont, .test3-cont {
@@ -355,6 +361,7 @@ transform: translateY(200px);
 .foot-contb{
     display: flex;
     justify-content: space-evenly;
+    align-items: top;
 }
 
 .footer1 {
@@ -369,7 +376,7 @@ transform: translateY(200px);
 
 .footer1 img{
     margin-right: 20px;
-    margin-top: -40px;
+    /* margin-top: -40px; */
 }
 
 .footer2 {

@@ -1,3 +1,110 @@
 @media screen and (max-width: 700px){
-    
+
+    .first-section{
+        padding: 30px  20px;
+    }
+    nav ul{
+        gap: 0.7rem;
+    }
+
+    .logo{
+        width: 100px;
+    }
+.intro{
+    width: 400px;
+    margin: 100px auto 100px auto;
+}
+
+.second-section{
+    background-image: none;
+    margin-top: 0;
+}
+
+.sec-cont{
+    padding: 0;
+}
+
+.sec-cont h1{
+    font-size: 27px;
+    line-height: 1.3em;
+}
+
+.sec-cont p{
+    font-size: 16px;
+    width: 100%;
+}
+
+.sec-cont1{
+    display: block;
+}
+
+.sec-cont2{
+    display: block;
+}
+
+.productive{
+    display: block;
+}
+
+.productive img{
+    width: 400px;
+}
+
+.prod-cont h1{
+    font-size: 27px;
+    width: 90%;
+}
+
+.prod-cont p{
+    font-size: 16px;
+    width: 100%;
+}
+
+.testimonial{
+    display: block;
+    margin: 0;
+}
+
+.test1, .test2, .test3{
+    width: 350px;
+    height: 150px;
+
+}
+
+.test1-cont p, .test2-cont p, .test3-cont p {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.test1-contb h3, .test2-contb h3, .test3-contb h3 {
+    font-size: 14px;
+}
+
+.test1-contb h4, .test2-contb h4, .test3-contb h4{
+    font-size: 10px;
+
+}
+.early2{
+    width: 500px;
+    height: 500px;
+}
+
+.early2 h2{
+    font-size: 20px;
+}
+
+.early2 p {
+    font-size: 16px;
+}
+
+.email-container input[type="email"]{
+    width: 300px;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+.email-container button{
+    margin-left: 0;
+}
+
 }
