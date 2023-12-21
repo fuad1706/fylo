@@ -38,6 +38,7 @@
 .sec-cont p{
     padding: 0 30px 0 30px;
     font-size: 13px;
+    font-weight: 600;
 }
 
 .get-started{
@@ -50,11 +51,13 @@
 .anywhere p{
     font-size: 13px;
     padding:0 20px 0 20px;
+    font-weight: 600;
 }
 
 .security p{
     font-size: 13px;
     padding: 0 10px 0 10px;
+    font-weight: 600;
 }
 
 .sec-cont1{
@@ -70,11 +73,13 @@
 .collaboration p{
     font-size: 13px;
     padding: 0 20px 0 20px;
+    font-weight: 600;
 }
 
 .store p{
     font-size: 13px;
     padding: 0 20px 0 20px;
+    font-weight: 600;
 }
 
 .productive{
@@ -96,10 +101,12 @@
     font-size: 13px;
     /* padding: 0 20px 0 0; */
     width: 100%;
+    font-weight: 600;
 }
 
 .prod-cont a{
     font-size: 13px;
+    font-weight: 600;
 }
 
 .testimonial{
@@ -123,6 +130,7 @@
 .test1-cont p, .test2-cont p, .test3-cont p {
     font-size: 12px;
     margin-bottom: 10px;
+    font-weight: 600;
 }
 
 .test1-contb h3, .test2-contb h3, .test3-contb h3 {
@@ -146,6 +154,7 @@
 .early2 p {
     font-size: 13px;
     padding: 0 55px 0 55px;
+    font-weight: 600;
 }
 
 .email-container input[type="email"]{
@@ -185,11 +194,13 @@
 .footer1 p{
     font-size: 12px;
     margin-bottom: 10px;
+    font-weight: 600;
 }
 
 .footer2 p{
     font-size: 12px;
     /* margin-bottom: 30px; */
+    font-weight: 600;
 }
 
 .footer2 .exfy{
@@ -202,6 +213,7 @@
 
 .footer4 ul li a, .footer3 ul li a {
     font-size: 12px;
+    font-weight: 600;
 }
 
 .footer3, .footer4{
