@@ -130,8 +130,8 @@
 
 }
 .early2{
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
 }
 
 .early2 h2{
@@ -156,11 +156,17 @@
     font-size: 12px;
 }
 
+.please{
+    display: none;
+    
+}
+
 .footer{
     width: 100%;
+    /* padding-top: 100px; */
 }
 .foot-cont .foot-logo{
-    margin: 0;
+    margin: 0 0 50px 0;
 }
 
 .foot-contb{
@@ -168,8 +174,34 @@
     flex-direction: column;
 }
 
-.footer1{
-    /* flex-direction: column; */
+.footer1 p{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.footer2 p{
+    font-size: 12px;
+    /* margin-bottom: 30px; */
+}
+
+.footer2 .exfy{
+    margin-bottom: 60px;
+}
+
+.footer2 img{
+    width: 15px;
+}
+
+.footer4 ul li a, .footer3 ul li a {
+    font-size: 12px;
+}
+
+.footer3, .footer4{
+    margin-bottom: 30px;
+}
+
+.footer5{
+    margin: 0 auto;
 }
 
 }
