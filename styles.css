@@ -171,7 +171,9 @@ nav ul li a{
 .productive img{
     width: 800px;
 }
-
+.prod-cont{
+    margin-left: 20px;
+}
 .prod-cont h1{
     font-family: 'Raleway', sans-serif;
     font-size: 60px;
