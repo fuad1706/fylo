@@ -54,11 +54,13 @@
 }
 
 .sec-cont1{
-    display: block;
+    /* display: block; */
+    flex-direction: column;
 }
 
 .sec-cont2{
-    display: block;
+    /* display: block; */
+    flex-direction: column;
 }
 
 .collaboration p{
@@ -72,7 +74,8 @@
 }
 
 .productive{
-    display: block;
+    /* display: block; */
+    flex-direction: column;
 }
 
 .productive img{
@@ -96,20 +99,21 @@
 }
 
 .testimonial{
-    display: block;
-    margin: 0;
+    /* display: block; */
+    /* margin: 0 auto; */
+    flex-direction: column;
 }
 
 .test1, .test2, .test3{
     width: 350px;
     height: 150px;
+    margin-bottom: 20px;
 
 }
 
 .test1-cont , .test2-cont , .test3-cont {
     margin-left: 20px;
     margin-top: 20px;
-    padding-top: 20px;
 }
 
 .test1-cont p, .test2-cont p, .test3-cont p {
