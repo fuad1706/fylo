@@ -1,5 +1,9 @@
 @media screen and (max-width: 700px){
 
+    html, body{
+        overflow-x: hidden;
+    }
+
     .first-section{
         padding: 30px  20px;
     }
@@ -130,8 +134,8 @@
 
 }
 .early2{
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
 }
 
 .early2 h2{
@@ -145,14 +149,14 @@
 }
 
 .email-container input[type="email"]{
-    width: 300px;
-    height: 50px;
-    margin-bottom: 30px;
+    width: 250px;
+    height: 35px;
+    margin-bottom: 20px;
 }
 
 .email-container button{
     margin-left: 0;
-    padding: 17px 90px;
+    padding: 10px 70px;
     font-size: 12px;
 }
 
