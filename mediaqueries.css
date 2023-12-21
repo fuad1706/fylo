@@ -25,12 +25,24 @@
 }
 
 .sec-cont h1{
-    font-size: 27px;
+    padding: 10px;
+    font-size: 29px;
     line-height: 1.3em;
+    width: 100%;
 }
 
 .sec-cont p{
-    font-size: 16px;
+    padding: 12px;
+    font-size: 18px;
+    width: 100%;
+}
+
+.get-started{
+    padding: 17px 75px;
+}
+.anywhere p, .security p{
+    font-size: 18px;
+    padding: 12px;
     width: 100%;
 }
 
@@ -56,8 +68,9 @@
 }
 
 .prod-cont p{
-    font-size: 16px;
-    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    width: 80%;
 }
 
 .testimonial{
