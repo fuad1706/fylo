@@ -135,6 +135,7 @@ nav ul li a{
 .anywhere p, .security p{
     color: hsl(0, 0%, 100%);
     font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
 }
 
 .sec-cont2{
@@ -155,6 +156,7 @@ nav ul li a{
     color: hsl(0, 0%, 100%);
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 100px;
+    font-weight: 600;
 }
 
 .collaboration img, .store img, .anywhere img, .security img{
@@ -186,6 +188,7 @@ nav ul li a{
     margin-bottom: 30px;
     font-size: 20px;
     color: hsl(0, 0%, 100%);
+    font-weight: 600;
 }
 
 .arrow{
@@ -199,6 +202,7 @@ nav ul li a{
     color: hsl(0, 0%, 100%);
     cursor: pointer;
     font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
 }
 
 .prod-cont a:hover{
@@ -243,6 +247,7 @@ nav ul li a{
     color: var(--white);
     font-size: 18px;
     margin-bottom: 50px;
+    font-weight: 600;
 }
 
 .test1-contb, .test2-contb, .test3-contb{
@@ -374,6 +379,7 @@ transform: translateY(200px);
 .footer1 p{
     font-family: 'Open Sans', sans-serif;
     color: var(--white);
+    font-weight: 600;
 }
 
 .footer1 img{
@@ -390,6 +396,7 @@ transform: translateY(200px);
     font-family: 'Open Sans', sans-serif;
     color: var(--white);
     margin-bottom: 20px;
+    font-weight: 600;
 } 
 
 .footer2 p img{
@@ -408,6 +415,7 @@ transform: translateY(200px);
     font-family: 'Open Sans', sans-serif;
     color: var(--white);
     text-decoration: none;
+    font-weight: 600;
 }
 
 .footer3 a:hover, .footer4 a:hover{

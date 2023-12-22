@@ -36,9 +36,10 @@
 }
 
 .sec-cont p{
-    padding: 0 30px 0 30px;
+    padding: 0 60px 0 60px;
     font-size: 13px;
     font-weight: 600;
+    width: 100%;
 }
 
 .get-started{
@@ -50,14 +51,16 @@
 }
 .anywhere p{
     font-size: 13px;
-    padding:0 20px 0 20px;
+    padding:0 15px 0 15px;
     font-weight: 600;
+    width: 100%;
 }
 
 .security p{
     font-size: 13px;
-    padding: 0 10px 0 10px;
+    padding: 0 20px 0 20px;
     font-weight: 600;
+    width: 100%;
 }
 
 .sec-cont1{
