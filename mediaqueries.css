@@ -28,32 +28,49 @@
     padding: 0;
 }
 
-.sec-cont h1{
-    padding: 0 35px 0 35px;
-    font-size: 20px;
-    line-height: 1.3em;
-    /* width: 100%; */
+.sec-cont h1 br{
+    display: none;
 }
 
+.sec-cont h1{
+    padding: 0 15px 0 10px;
+    font-size: 20px;
+    line-height: 1.3em;
+}
+
+
 .sec-cont p{
-    padding: 0 60px 0 60px;
+    padding: 0 35px 0 35px;
     font-size: 13px;
     font-weight: 600;
     width: 100%;
+}
+
+.sec-cont p br{
+    display: none;
 }
 
 .get-started{
     padding: 15px 75px;
+    margin-bottom: 50px;
 }
 
 .anywhere, .security{
-    margin: 100px 0 50px 0;
+    margin: 50px 0 50px 0;
+}
+
+.anywhere p br{
+    display: none;
 }
 .anywhere p{
     font-size: 13px;
-    padding:0 15px 0 15px;
+    padding:0 27px 0 27px;
     font-weight: 600;
     width: 100%;
+}
+
+.security p br{
+    display: none;
 }
 
 .security p{
@@ -73,10 +90,17 @@
     flex-direction: column;
 }
 
+.collaboration p br{
+    display: none;
+}
+
 .collaboration p{
     font-size: 13px;
-    padding: 0 20px 0 20px;
+    padding: 0 22px 0 22px;
     font-weight: 600;
+}
+.store p br{
+    display: none;
 }
 
 .store p{
@@ -91,18 +115,28 @@
 }
 
 .productive img{
-    width: 400px;
+    width: 350px;
     margin-bottom: 50px;
 }
 
 .prod-cont h1{
-    font-size: 20px;
+    font-size: 18px;
     width: 100%;
+    padding: 0 15px 0 15px;
+}
+
+.prod-cont h1 br{
+    display: none;
+}
+
+.prod-cont p br{
+    display: none;
 }
 
 .prod-cont p{
     font-size: 13px;
-    /* padding: 0 20px 0 0; */
+    padding: 0 15px 0 15px;
+    /* margin: 0 auto; */
     width: 100%;
     font-weight: 600;
 }
@@ -110,6 +144,7 @@
 .prod-cont a{
     font-size: 13px;
     font-weight: 600;
+    padding: 0 15px 0 15px;
 }
 
 .testimonial{
@@ -154,9 +189,13 @@
     margin-bottom: 10px;
 }
 
+.early2 p br{
+    display: none;
+}
+
 .early2 p {
     font-size: 13px;
-    padding: 0 55px 0 55px;
+    padding: 0 37px 0 37px;
     font-weight: 600;
 }
 
