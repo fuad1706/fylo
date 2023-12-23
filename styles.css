@@ -58,7 +58,7 @@ nav ul li a{
 }
 
 .intro{
-    margin-left: 700px;
+    margin-left: 190px;
     margin-top: 200px;
 }
 
@@ -190,22 +190,14 @@ nav ul li a{
     font-weight: 600;
 }
 
-.arrow{
-    width: auto;
-    height: auto;
-}
-
 
 .prod-cont a{
-    text-decoration: none;
+    text-decoration: underline;
     color: hsl(0, 0%, 100%);
     cursor: pointer;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
-}
-
-.prod-cont a:hover{
-    text-decoration: underline;
+    color: var(--Cyan--gradient);
 }
 
 .testimonial{
@@ -217,7 +209,7 @@ nav ul li a{
 }
 
 .test1{
-    width: 570px;
+    width: 400px;
     height: 300px;
     background-color: hsl(219, 30%, 18%) ;
     border-radius: 10px;
@@ -230,7 +222,7 @@ nav ul li a{
 }
 
 .test1-cont, .test2-cont, .test3-cont {
-    margin-left: 50px;
+    margin-left: 20px;
     margin-top: 70px;
 }
 
@@ -244,7 +236,7 @@ nav ul li a{
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     color: var(--white);
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 50px;
     font-weight: 600;
 }
@@ -269,14 +261,14 @@ nav ul li a{
 }
 
 .test2{
-    width: 570px;
+    width: 400px;
     height: 300px;
     background-color: hsl(219, 30%, 18%) ;
     border-radius: 10px;
 }
 
 .test3{
-    width: 570px;
+    width: 400px;
     height: 300px;
     background-color: hsl(219, 30%, 18%) ;
     border-radius: 10px;
@@ -290,7 +282,7 @@ nav ul li a{
 }
 
 .early2{
-width: 1200px;
+width: 900px;
 height: 350px;
 background-color: var(--Dark--Blue--intro--email);
 box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
@@ -317,8 +309,8 @@ transform: translateY(200px);
 .email-container input[type="email"]{
         padding: 10px;
         border-radius: 50px;
-        width: 700px;
-        height: 70px;
+        width: 500px;
+        height: 65px;
         border: none;
 }
 
@@ -342,7 +334,7 @@ transform: translateY(200px);
 }
 
 .please{
-    margin-left: -700px;
+    margin-left: -500px;
     
 }
 
@@ -361,7 +353,7 @@ transform: translateY(200px);
 
 .foot-cont .foot-logo{
     margin-bottom: 80px;
-    margin-left: 210px;
+    margin-left: 110px;
 }
 
 .foot-contb{

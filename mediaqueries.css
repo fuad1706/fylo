@@ -147,6 +147,10 @@
     padding: 0 15px 0 15px;
 }
 
+.prod-cont a img{
+    bottom: 0;
+}
+
 .testimonial{
     /* display: block; */
     /* margin: 0 auto; */
