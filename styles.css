@@ -359,12 +359,13 @@ transform: translateY(200px);
 .foot-contb{
     display: flex;
     justify-content: space-evenly;
-    align-items: top;
+    /* align-items: top; */
 }
 
 .footer1 {
     display: flex;
     align-items: center;
+    margin-top: -75px;
 }
 
 .footer1 p{

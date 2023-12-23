@@ -237,6 +237,10 @@
     flex-direction: column;
 }
 
+.footer1{
+    margin-top: 40px;
+}
+
 .footer1 p{
     font-size: 12px;
     margin-bottom: 10px;
