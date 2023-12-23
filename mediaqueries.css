@@ -148,7 +148,7 @@
 }
 
 .prod-cont a img{
-    bottom: 0;
+    margin-bottom: -4px;
 }
 
 .testimonial{
